@@ -1,5 +1,5 @@
 # Container image that runs your code
-FROM golang:1.13.15
+FROM golang:1.25.5
 
 WORKDIR /notifier
 
